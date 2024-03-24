@@ -1,1 +1,2 @@
 # Multiple_Linear_Regression
+Utilising Multiple Linear Regression in Python with scikit-learn, this project looks at data from corn-farming households in Taita Taveta, Kenya. The analysis, organized into steps, includes importing libraries, exploring data distribution, and handling missing information. It also delves into topics like correlations, grouping, and bias, aiming to create a predictive model for corn yield. The goal is to make the analysis accessible and provide practical insights for decision-making in agriculture.
